@@ -22,7 +22,7 @@ class CalculatorTest {
 
     @Test
     void sub() {
-        assertEquals(10,c.sub(30,20));
+        assertEquals(10,c.sub(40,30));
     }
 
     @Test
